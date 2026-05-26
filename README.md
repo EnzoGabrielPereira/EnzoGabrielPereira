@@ -1,4 +1,5 @@
-# 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Enzo Gabriel
+====================================================================================================================================
 - 🔭 Atualmente desenvolvendo projetos e estudando a área<br>- 🌱 Base sólida com lógica de programação, git e github <br>- 🛰️ Desenvolvendo o portifolio<br>- 🎯 Focado em crescer na área de tecnologia e engenharia de software<br>- ⚡ Interesse em tecnologia novas , automação e interfaces modernas
 
 
