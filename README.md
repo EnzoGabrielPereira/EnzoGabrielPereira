@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=EnzoGabrielPereira&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=EnzoGabrielPereira&theme=dark&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=EnzoGabrielPereira&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EnzoGabrielPereira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
